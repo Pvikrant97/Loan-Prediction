@@ -1,0 +1,2 @@
+# Loan-Prediction
+The main objective of this project is to predict whether assigning the loan to particular person will be safe or not. Means pick out which customer will be able to pay the debt and which customer is likely will not be able to pay the debts.  Build a model with respect to all the Independent And Dependent features, Whichever Model perform well pick that model as our final model.
